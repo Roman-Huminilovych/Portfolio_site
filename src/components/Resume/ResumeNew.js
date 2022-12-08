@@ -55,5 +55,4 @@ function ResumeNew() {
     </div>
   );
 }
-
 export default ResumeNew;
