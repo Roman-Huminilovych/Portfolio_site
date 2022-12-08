@@ -13,6 +13,7 @@ import {
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
+import pdf from "../Assets/Roma_Huminilovych_Junior_Frontend_Developer.pdf";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -82,11 +83,11 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                as={Link}
-                to="/resume"
+                href={pdf}
+                target="_blank"
                 onClick={() => updateExpanded(false)}
               >
-                <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
+                <CgFileDocument style={{ marginBottom: "2px" }} /> Download CV
               </Nav.Link>
             </Nav.Item>
 

@@ -2,12 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import leaf from "../../Assets/Projects/seach-image.png";
+import emotion from "../../Assets/Projects/countries.png";
+import editor from "../../Assets/Projects/webstudio.png";
+import chatify from "../../Assets/Projects/icecream.png";
+import suicide from "../../Assets/Projects/phonebook.png";
+import bitsOfCode from "../../Assets/Projects/filmoteka.png";
 
 function Projects() {
   return (
@@ -60,12 +60,10 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Color switch, Timer and Promise Generator"
-              description="  There were 3 tasks: connect SimpleLightbox via npm; 
-                    add Vimeo player time to local storagem and save user's typed 
-                    but not sent info to local storage."
-              ghLink="https://github.com/Roman-Huminilovych/goit-js-hw-09"
-              demoLink="https://roman-huminilovych.github.io/goit-js-hw-09/"
+              title="Phonebook"
+              description="Phonebook contact storage application."
+              ghLink="https://github.com/Roman-Huminilovych/goit-react-hw-02-phonebook"
+              demoLink="https://roman-huminilovych.github.io/goit-react-hw-02-phonebook/"
             />
           </Col>
 
