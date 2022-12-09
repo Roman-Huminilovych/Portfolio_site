@@ -6,6 +6,8 @@ import {
   SiWebpack,
   SiGithub,
   SiCanva,
+  SiTrello,
+  SiSlack,
 } from "react-icons/si";
 
 function Toolstack() {
@@ -25,6 +27,12 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiCanva />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTrello />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiSlack />
       </Col>
     </Row>
   );
