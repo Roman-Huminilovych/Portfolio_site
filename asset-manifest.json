@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio_site/static/css/main.5ecd2053.css",
-    "main.js": "/Portfolio_site/static/js/main.eaf6a96a.js",
-    "static/js/787.6b7abe35.chunk.js": "/Portfolio_site/static/js/787.6b7abe35.chunk.js",
+    "main.js": "/Portfolio_site/static/js/main.89fa735c.js",
+    "static/js/787.4a95495f.chunk.js": "/Portfolio_site/static/js/787.4a95495f.chunk.js",
     "static/media/Roma_Huminilovych_Junior_Frontend_Developer.pdf": "/Portfolio_site/static/media/Roma_Huminilovych_Junior_Frontend_Developer.33725819d8635415dcc3.pdf",
     "static/media/avatar.png": "/Portfolio_site/static/media/avatar.c6e29a8daa9eaed805a4.png",
     "static/media/seach-image.png": "/Portfolio_site/static/media/seach-image.ec9919d1f572564f5043.png",
@@ -17,11 +17,11 @@
     "static/media/pre.svg": "/Portfolio_site/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio_site/index.html",
     "main.5ecd2053.css.map": "/Portfolio_site/static/css/main.5ecd2053.css.map",
-    "main.eaf6a96a.js.map": "/Portfolio_site/static/js/main.eaf6a96a.js.map",
-    "787.6b7abe35.chunk.js.map": "/Portfolio_site/static/js/787.6b7abe35.chunk.js.map"
+    "main.89fa735c.js.map": "/Portfolio_site/static/js/main.89fa735c.js.map",
+    "787.4a95495f.chunk.js.map": "/Portfolio_site/static/js/787.4a95495f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ecd2053.css",
-    "static/js/main.eaf6a96a.js"
+    "static/js/main.89fa735c.js"
   ]
 }
