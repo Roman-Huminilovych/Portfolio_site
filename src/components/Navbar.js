@@ -12,9 +12,6 @@ import {
   AiOutlineUser,
 } from "react-icons/ai";
 
-import { CgFileDocument } from "react-icons/cg";
-import pdf from "../Assets/Roma_Huminilovych_Junior_Frontend_Developer.pdf";
-
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
   const [navColour, updateNavbar] = useState(false);
@@ -80,17 +77,6 @@ function NavBar() {
                 Projects
               </Nav.Link>
             </Nav.Item>
-
-            <Nav.Item>
-              <Nav.Link
-                href={pdf}
-                target="_blank"
-                onClick={() => updateExpanded(false)}
-              >
-                <CgFileDocument style={{ marginBottom: "2px" }} /> Download CV
-              </Nav.Link>
-            </Nav.Item>
-
             <Nav.Item className="fork-btn">
               <Button
                 href="https://github.com/Roman-Huminilovych/Portfolio_site"
