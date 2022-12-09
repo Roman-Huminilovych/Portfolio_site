@@ -14,7 +14,7 @@ import {
 
 import { CgFileDocument } from "react-icons/cg";
 import pdf from "../Assets/Roma_Huminilovych_Junior_Frontend_Developer.pdf";
-import "react-pdf/dist/esm/Page/AnnotationLayer.css";
+
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
   const [navColour, updateNavbar] = useState(false);

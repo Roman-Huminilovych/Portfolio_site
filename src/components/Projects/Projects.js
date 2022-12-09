@@ -8,6 +8,9 @@ import editor from "../../Assets/Projects/webstudio.png";
 import chatify from "../../Assets/Projects/icecream.png";
 import suicide from "../../Assets/Projects/phonebook.png";
 import bitsOfCode from "../../Assets/Projects/filmoteka.png";
+import { AiOutlineDownload } from "react-icons/ai";
+import pdf from "../../Assets/Roma_Huminilovych_Junior_Frontend_Developer.pdf";
+import Button from "react-bootstrap/Button";
 
 function Projects() {
   return (
@@ -91,6 +94,17 @@ function Projects() {
           </Col>
         </Row>
       </Container>
+      <Row style={{ justifyContent: "center", position: "relative" }}>
+        <Button
+          variant="primary"
+          href={pdf}
+          target="_blank"
+          style={{ maxWidth: "250px" }}
+        >
+          <AiOutlineDownload />
+          &nbsp;Download CV
+        </Button>
+      </Row>
     </Container>
   );
 }
