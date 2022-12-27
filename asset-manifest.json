@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio-site/static/css/main.dd765088.css",
-    "main.js": "/portfolio-site/static/js/main.aed26ba5.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio-site/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Roma_Huminilovych_Junior_Frontend_Developer.pdf": "/portfolio-site/static/media/Roma_Huminilovych_Junior_Frontend_Developer.33725819d8635415dcc3.pdf",
-    "static/media/avatar.png": "/portfolio-site/static/media/avatar.c6e29a8daa9eaed805a4.png",
-    "static/media/seach-image.png": "/portfolio-site/static/media/seach-image.ec9919d1f572564f5043.png",
-    "static/media/filmoteka.png": "/portfolio-site/static/media/filmoteka.c2a2ab93090978abb8a1.png",
-    "static/media/home-main.svg": "/portfolio-site/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/webstudio.png": "/portfolio-site/static/media/webstudio.75ee97220007760082a0.png",
-    "static/media/about.png": "/portfolio-site/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/icecream.png": "/portfolio-site/static/media/icecream.874adb729a3837b62b33.png",
-    "static/media/home-bg.jpg": "/portfolio-site/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/countries.png": "/portfolio-site/static/media/countries.f72d0e410bec1d914d9d.png",
-    "static/media/phonebook.png": "/portfolio-site/static/media/phonebook.34466fc73b4951f246cf.png",
-    "static/media/pre.svg": "/portfolio-site/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/portfolio-site/index.html",
-    "main.dd765088.css.map": "/portfolio-site/static/css/main.dd765088.css.map",
-    "main.aed26ba5.js.map": "/portfolio-site/static/js/main.aed26ba5.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio-site/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Roman-Huminilovych/portfolio-site/static/css/main.16d4a79f.css",
+    "main.js": "/Roman-Huminilovych/portfolio-site/static/js/main.5986ea30.js",
+    "static/js/787.37faa4c4.chunk.js": "/Roman-Huminilovych/portfolio-site/static/js/787.37faa4c4.chunk.js",
+    "static/media/Roma_Huminilovych_Junior_Frontend_Developer.pdf": "/Roman-Huminilovych/portfolio-site/static/media/Roma_Huminilovych_Junior_Frontend_Developer.33725819d8635415dcc3.pdf",
+    "static/media/avatar.png": "/Roman-Huminilovych/portfolio-site/static/media/avatar.c6e29a8daa9eaed805a4.png",
+    "static/media/seach-image.png": "/Roman-Huminilovych/portfolio-site/static/media/seach-image.ec9919d1f572564f5043.png",
+    "static/media/filmoteka.png": "/Roman-Huminilovych/portfolio-site/static/media/filmoteka.c2a2ab93090978abb8a1.png",
+    "static/media/home-main.svg": "/Roman-Huminilovych/portfolio-site/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/webstudio.png": "/Roman-Huminilovych/portfolio-site/static/media/webstudio.75ee97220007760082a0.png",
+    "static/media/about.png": "/Roman-Huminilovych/portfolio-site/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/icecream.png": "/Roman-Huminilovych/portfolio-site/static/media/icecream.874adb729a3837b62b33.png",
+    "static/media/home-bg.jpg": "/Roman-Huminilovych/portfolio-site/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/countries.png": "/Roman-Huminilovych/portfolio-site/static/media/countries.f72d0e410bec1d914d9d.png",
+    "static/media/phonebook.png": "/Roman-Huminilovych/portfolio-site/static/media/phonebook.34466fc73b4951f246cf.png",
+    "static/media/pre.svg": "/Roman-Huminilovych/portfolio-site/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Roman-Huminilovych/portfolio-site/index.html",
+    "main.16d4a79f.css.map": "/Roman-Huminilovych/portfolio-site/static/css/main.16d4a79f.css.map",
+    "main.5986ea30.js.map": "/Roman-Huminilovych/portfolio-site/static/js/main.5986ea30.js.map",
+    "787.37faa4c4.chunk.js.map": "/Roman-Huminilovych/portfolio-site/static/js/787.37faa4c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd765088.css",
-    "static/js/main.aed26ba5.js"
+    "static/css/main.16d4a79f.css",
+    "static/js/main.5986ea30.js"
   ]
 }
