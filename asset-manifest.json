@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio-site/static/css/main.dd765088.css",
-    "main.js": "/portfolio-site/static/js/main.8365eda5.js",
-    "static/js/787.37faa4c4.chunk.js": "/portfolio-site/static/js/787.37faa4c4.chunk.js",
-    "static/media/Roma_Huminilovych_Junior_Frontend_Developer.pdf": "/portfolio-site/static/media/Roma_Huminilovych_Junior_Frontend_Developer.33725819d8635415dcc3.pdf",
-    "static/media/avatar.png": "/portfolio-site/static/media/avatar.c6e29a8daa9eaed805a4.png",
-    "static/media/seach-image.png": "/portfolio-site/static/media/seach-image.ec9919d1f572564f5043.png",
-    "static/media/filmoteka.png": "/portfolio-site/static/media/filmoteka.c2a2ab93090978abb8a1.png",
-    "static/media/home-main.svg": "/portfolio-site/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/webstudio.png": "/portfolio-site/static/media/webstudio.75ee97220007760082a0.png",
-    "static/media/about.png": "/portfolio-site/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/icecream.png": "/portfolio-site/static/media/icecream.874adb729a3837b62b33.png",
-    "static/media/home-bg.jpg": "/portfolio-site/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/countries.png": "/portfolio-site/static/media/countries.f72d0e410bec1d914d9d.png",
-    "static/media/phonebook.png": "/portfolio-site/static/media/phonebook.34466fc73b4951f246cf.png",
-    "static/media/pre.svg": "/portfolio-site/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/portfolio-site/index.html",
-    "main.dd765088.css.map": "/portfolio-site/static/css/main.dd765088.css.map",
-    "main.8365eda5.js.map": "/portfolio-site/static/js/main.8365eda5.js.map",
-    "787.37faa4c4.chunk.js.map": "/portfolio-site/static/js/787.37faa4c4.chunk.js.map"
+    "main.css": "/static/css/main.a08cf2e6.css",
+    "main.js": "/static/js/main.b0959bff.js",
+    "static/js/787.37faa4c4.chunk.js": "/static/js/787.37faa4c4.chunk.js",
+    "static/media/Roma_Huminilovych_Junior_Frontend_Developer.pdf": "/static/media/Roma_Huminilovych_Junior_Frontend_Developer.33725819d8635415dcc3.pdf",
+    "static/media/avatar.png": "/static/media/avatar.c6e29a8daa9eaed805a4.png",
+    "static/media/seach-image.png": "/static/media/seach-image.ec9919d1f572564f5043.png",
+    "static/media/filmoteka.png": "/static/media/filmoteka.c2a2ab93090978abb8a1.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/webstudio.png": "/static/media/webstudio.75ee97220007760082a0.png",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/icecream.png": "/static/media/icecream.874adb729a3837b62b33.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/countries.png": "/static/media/countries.f72d0e410bec1d914d9d.png",
+    "static/media/phonebook.png": "/static/media/phonebook.34466fc73b4951f246cf.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.a08cf2e6.css.map": "/static/css/main.a08cf2e6.css.map",
+    "main.b0959bff.js.map": "/static/js/main.b0959bff.js.map",
+    "787.37faa4c4.chunk.js.map": "/static/js/787.37faa4c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd765088.css",
-    "static/js/main.8365eda5.js"
+    "static/css/main.a08cf2e6.css",
+    "static/js/main.b0959bff.js"
   ]
 }
