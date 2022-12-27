@@ -1,8 +1,8 @@
 {
-  "name": "portfolio",
+  "name": "portfolio-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://roman-huminilovych.github.io/portfolio-site/",
+  "homepage": "https://github.com/Roman-Huminilovych/portfolio-site",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
@@ -17,7 +17,7 @@
     "react-icons": "^4.7.1",
     "react-parallax-tilt": "^1.7.75",
     "react-pdf": "^6.2.0",
-    "react-router-dom": "^6.4.4",
+    "react-router-dom": "^6.4.5",
     "react-scripts": "5.0.1",
     "react-tsparticles": "^2.6.0",
     "typewriter-effect": "^2.19.0",
